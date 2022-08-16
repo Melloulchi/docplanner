@@ -1,0 +1,260 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#op{
+    width: 300px;
+}
+section{
+    display: flex;
+   text-align: center;
+   justify-content: space-around;
+   padding: 10px 0px;
+
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    
+}
+li{
+    list-style: none;
+   padding: 0 10px; 
+   
+}
+
+a{
+    color:gray ;
+    text-decoration: none;
+    font-family: robot;
+    font-style: italic;
+    font-size: 23px;
+
+
+}
+a:hover{
+    color: #00b39b;
+
+}
+
+#bvc{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+}
+h3{
+    font-size: 2.125rem;
+    color: #00b39b;
+    margin: 1em 0;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+
+
+#fds{
+    display: flex;
+    justify-content: center;
+}
+#azsq{
+
+
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+#azsq p{
+    margin: 0.8em 0;
+    line-height: 1.75;
+    font-weight: 400;
+    
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    padding-top: 70px;
+    -webkit-font-smoothing: antialiased;
+   width: 800px;
+   padding: 15px 300px;
+}
+#aqsw div{
+width: 20%;
+display: flex;
+flex-direction: column;
+padding: 40px 20px;
+color: white;
+border-radius: 15px;
+justify-content: space-around;
+}
+#aqsw div img{
+    width: 25px;
+}
+#aqsw div p{
+    width: 50%;
+    font-size: 20px;
+}
+#aqsw div select{
+    width: 50%;
+    border: 0;
+    background-color: transparent;
+    
+    color: white;
+}
+
+section{
+    display:flex;
+    justify-content: space-around;
+}
+.card1{
+    background-color: #00b39b;
+}
+.card2{
+    background-color: #3d83df; 
+}
+.card3{
+    background-color:#1b2734;
+}
+#aqsw{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+        
+}
+#aqsw div{
+
+    height: 300px;
+}
+#polm{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+gap: 20px;
+}
+#polm h4{
+    float: left;
+    width: 33%;
+    font-size: 1.625em;
+    margin: 0.25em 0 0.35em;
+    padding-right: 1em;
+    color: #00b39b
+    
+ }
+    
+#polm div{
+    display: flex;
+    gap: 20px;
+}
+#polm svg{
+    width: 120px;
+    gap: 20px;
+    
+
+}
+
+svg path:hover{
+    fill: #00b39b;
+}
+
+
+#middle{
+    background-color: #e5faf8;
+background-image: url(logo\ \(1\).png);
+background-repeat: no-repeat;
+height: 570px;
+background-position: 0 280px;
+}
+.duo-cards{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+ .duo-cards div{
+    display: flex;
+    flex-direction: column;
+    width: 140px;
+    background-color: white;
+    height: 300px;
+    border-radius: 20;
+ }
+
+ .duo-cards div img{
+    width: 60px;
+ }
+
+.cards-groupe{
+    display: flex;
+    gap: 5vw;
+}
+.left-side span{
+
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.left-side p{
+
+    max-width: 415px;
+    font-size: .875em;
+    font-weight: 400;
+    line-height: 1.7142857143;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    padding-top: 70px;
+    -webkit-font-smoothing: antialiased;
+}
+.duo-card div img{
+width: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
